@@ -1,5 +1,18 @@
-## Hi there 👋
+###About Me
 
+#Kellie Wijas
+
+##MS Applied Statistics Student
+
+###Get to Know Me
+
+###Page Contents
+
+##Projects
+
+##Interest
+
+##Section3
 <!--
 **kwijas/kwijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

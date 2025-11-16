@@ -4,26 +4,6 @@
 
 ## MS Applied Statistics Student
 
-### Get to Know Me
-
-### Page Contents
-
-[Projects](#projects)
-<a  name ="project></a>
-
-## Projects
-
-#### NASA ICARTT Converter
-
-#### Umpire Scorecard Accuracy Predictor (STAT 408)
-
-#### Runner Peanut Mulitvaraite Analysis Replication (STAT 488)
-
-#### Big 10 Optimal Playing Schdule (STAT 395)
-
-## Interest
-
-## Section3
 <!--
 **kwijas/kwijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

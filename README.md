@@ -8,7 +8,7 @@
 
 ## Projects
 
-#### NASA ICARTT Converter
+#### [NASA ICARTT Converter](https://github.com/kwijas/ICTconverter)
 - A package in R to convert NASA's ICARTT files into csv and/or xlsx files for data analysis. 
 
 #### Umpire Scorecard Accuracy Predictor (STAT 408)

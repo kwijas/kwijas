@@ -2,19 +2,23 @@
 
 # Kellie Wijas
 
-## MS Applied Statistics Student
+## MS Applied Statistics Graudate 
 
-<!--
-**kwijas/kwijas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Get to Know Me
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### NASA ICARTT Converter
+- A package in R to convert NASA's ICARTT files into csv and/or xlsx files for data analysis. 
+
+#### Umpire Scorecard Accuracy Predictor (STAT 408)
+- A model created using Elastic Net Regression to predict the accuracy of MLB Umpires for the 2015-2022 seasons based on various factors. 
+
+#### Runner Peanut Mulitvaraite Analysis Replication (STAT 488)
+- 
+
+#### Big 10 Optimal Playing Schdule (STAT 395)
+
+## Interests
+
+## Section3
